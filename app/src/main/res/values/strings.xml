@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Aplicacao GCP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Principios">
+        <item>Principle 1: Ethical Conduct</item>
+        <item> Principle 2: Protocol </item>
+        <item>Principle 3: Risk Identifi cation </item>
+        <item>Principle 4: Benefi t-Risk Assessment </item>
+        <item>Principle 5: Review by Independent Ethics Committee / Independent Review Board </item>
+        <item>Principle 6: Protocol Compliance </item>
+        <item>Principle 7: Informed Consent </item>
+        <item>Principle 8: Continuing Review/Ongoing Benefi t-Risk Assessment </item>
+        <item>Principle 9: Investigator Qualifi cations </item>
+        <item>Principle 10:Staff Qualifi cations </item>
+        <item>Principle 11: Records </item>
+        <item>Principle 12: Confi dentiality/Privacy </item>
+        <item>Principle 13:Good Manufacturing Practice </item>
+        <item>Principle 14: Quality Systems</item>
+
+    </string-array>
+
+    <string-array name="descricao">
+        <item>Application Principle 1 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards.</item>
+        <item> Application Principle 2 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards.</item>
+        <item>Application Principle 3 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 4 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 5 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards.</item>
+        <item>Application Principle 6 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 7 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 8 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 9 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 10 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 11 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 12 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards.</item>
+        <item>Application Principle 13 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards. </item>
+        <item>Application Principle 14 is applied through
+            • design and approval of the protocol
+            • informed consent
+            • scientifi c and ethical review
+            • a favourable risk/benefi t assessment
+            • fair and transparent procedures and outcomes in the selection of research subjects
+            • compliance with national and international laws, regulations, and standards.</item>
+
+    </string-array>
+</resources>
