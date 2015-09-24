@@ -33,6 +33,7 @@ public class MainActivity extends Activity implements FragmentA.Communicator {
         }else{
 
             Intent intent = new Intent(this,AnotherActivity.class);
+            //startActivity
         }
 
     }
