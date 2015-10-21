@@ -40,6 +40,12 @@ public class MainActivity extends Activity implements FragmentA.Communicator,Fra
     }
 
     @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
     public void respond(int index) {
 
         f2 = (FragmentB) manager.findFragmentById(R.id.fragment2);
